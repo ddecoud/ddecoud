@@ -4,7 +4,7 @@
 
 ### &nbsp;**About Me**
 
-&nbsp;&nbsp;&nbsp;:woman_technologist: &nbsp; Currently working as Head of Product at Prometeo OpenBanking  
+&nbsp;&nbsp;&nbsp;:woman_technologist: &nbsp; Currently working as Head of Product at [Prometeo OpenBanking](https://prometeoapi.com/)    
 &nbsp;&nbsp;&nbsp;:uruguay: &nbsp; Based on Montevideo, Uruguay  
 &nbsp;&nbsp;&nbsp;:seedling: &nbsp; Love for innovation and phylosophy  
 &nbsp;&nbsp;&nbsp;:field_hockey: &nbsp; Field hockey player
